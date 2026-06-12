@@ -23,7 +23,7 @@ Dashboard Features =
 - Content growth over the years
 - Genre-wise and country-wise analysis
 - Interactive filters for year, country, and type
-- 
+  
   
 Screenshot - Dashboard preview is available in the screenshots folder.
 
